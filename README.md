@@ -1,4 +1,4 @@
-### Um novato onfire! 🐺
+### Hi there 👋
 
 - 🌱 learning HTML/CSS/JS
 
