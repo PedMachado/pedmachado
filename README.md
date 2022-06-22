@@ -1,7 +1,7 @@
 ### Hi there 👋 I am looking for a job opportunity in the area. I am currently studying Software Engineering at Infnet.
 
 ✔ HTML / CSS / JS / BOOTSTRAP <br>
-♥ Learning ☛ Typescript / React /  NodeJS / AngularJS / ReactJS
+♥ Learning ☛ Typescript / C# / React / 
 
 <div align="center">
   <a href="https://github.com/pedmachado">
