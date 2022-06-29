@@ -5,7 +5,7 @@
 📧 Email: pedmachado27@gmail.com
 
 <div align="center">
-  <a href="https://github.com/pedmachado">
+  <a href="https://github.com/PedMachado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedmachado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
   <div style="display: inline_block"><br>
