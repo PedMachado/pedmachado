@@ -1,4 +1,5 @@
-### Hi there 👋 I am looking for a job opportunity in the area. I am currently studying Software Engineering at Infnet.
+<h1>### Bem-Vindo!! 👋<br></h1>
+I am currently studying Software Engineering at Infnet.
 
 ✔ HTML / CSS / JS / BOOTSTRAP <br>
 ♥ Learning ☛ Typescript / C# / React / <br>
