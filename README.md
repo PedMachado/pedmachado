@@ -1,5 +1,5 @@
 <h1>Bem-Vindo!! 👋<br></h1>
-<h3>Atualmente estudando Engenharia de Software na <a href="https://www.infnet.edu.br/rj/faculdade/engenharia-de-software/">Infnet</a>.</h3>
+<h2>Atualmente estudando Engenharia de Software na <a href="https://www.infnet.edu.br/rj/faculdade/engenharia-de-software/">Infnet</a>.</h2>
 
 ✔ HTML / CSS / JS / BOOTSTRAP <br>
 ♥ Learning ☛ Typescript / C# / React / <br>
