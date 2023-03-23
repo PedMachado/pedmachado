@@ -2,7 +2,7 @@
 <h3>Atualmente estudando Engenharia de Software na <a href="https://www.infnet.edu.br/rj/faculdade/engenharia-de-software/">Infnet</a>.</h3>
 
 ✔ HTML / CSS / JS / BOOTSTRAP <br>
-♥ Learning ☛ Typescript / C# / React / <br>
+♥ Learning ☛ Node.js / React Native / React.js / <br>
 📧 Email: pedmachado27@gmail.com
 
 <div align="center">
